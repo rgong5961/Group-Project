@@ -5,11 +5,13 @@ public class PlayerLink {
 	//this the big gae
 	private Image i;
 	private int g
+	private Location start;
+	
 	public PlayerLink(){
 		this.i = src/;
 	}
 	
 	public Image changeImage() {
-		
+		this.i = 
 	}
 }
