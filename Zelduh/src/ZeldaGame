@@ -1,0 +1,9 @@
+public class ZeldaGame{
+    public ZeldaGame(){
+
+    }
+
+//    public void keyHit(String s) {
+//        System.out.println("In game (keyHit):"  + s);
+//    }
+}
